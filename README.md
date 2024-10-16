@@ -1,4 +1,4 @@
-# test_1
+# Important Instructions
 
-This is my first repo in the GitHub.
+This is my first repo in GitHub for practicing Git and GitHub.
 Here is a second line.
